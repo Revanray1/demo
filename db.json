@@ -1,14 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "Recipies": [
+    { 
+      id: 1,
+     img: "https://i0.wp.com/spiceandcolour.com/wp-content/uploads/2020/05/chapati-espelta-1.jpg",
+     name: "CHAPPATHI",
+     price: 40
+    },
+    { 
+      id: 2,
+      img: "https://thumbs.dreamstime.com/b/south-indian-meals-served-banana-leaf-traditional-cuisine-57371591.jpg",
+      name: "MEALS",
+      price: 80
+    },
+   {
+    "id": 3,
+    "name": "PONGAL",
+    "price": 50,
+    "img": "https://content.jdmagicbox.com/comp/karaikudi/a6/9999p4575.4575.171205185231.i8a6/catalogue/aarya-bhavan-karaikudi-karaikudi-gjwthqggub-250.jpg"
+  },
+  {
+    "id": 4,
+    "name": "POORI",
+    "price": 40,
+    "img": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg"
+  },
+  {
+    "id": 5,
+    "name": "NOODLES",
+    "price": 120,
+    "img": "https://thumbs.dreamstime.com/b/bowl-chinese-noodles-vegetables-white-background-30440348.jpg"
+  },
+  {
+    "id": 6,
+    "name": "FRIED RICE",
+    "price": 130,
+    "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg"
+  },
+  {
+    "id": 7,
+    "name": "BRIYANI",
+    "price": 180,
+    "img": "https://tandoorikitchen.in/wp-content/uploads/2022/03/Veg-Biryani-2-3-2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "CHICKEN BRIYANI",
+    "price": 210,
+    "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/01/Chicken-Biryani.jpg"
   }
+  ],
 }
