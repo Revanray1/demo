@@ -1,5 +1,4 @@
-{
-  "Recipies": [
+["recipes"=
   {
     "id": 1,
     "name": "CHAPPATHI",
@@ -48,5 +47,4 @@
     "price": 210,
     "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/01/Chicken-Biryani.jpg"
   }
-  ],
-}
+]
