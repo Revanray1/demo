@@ -1,52 +1,60 @@
 {
    "data": [
         {
-            "id": 1,
-            "name": "CHAPPATHI",
-            "price": 40,
-            "img": "https://i0.wp.com/spiceandcolour.com/wp-content/uploads/2020/05/chapati-espelta-1.jpg"
-        },
-        {
-            "id": 2,
-            "name": "MEALS",
-            "price": 80,
-            "img": "https://thumbs.dreamstime.com/b/south-indian-meals-served-banana-leaf-traditional-cuisine-57371591.jpg"
-        },
-        {
-            "id": 3,
-            "name": "PONGAL",
-            "price": 50,
-            "img": "https://content.jdmagicbox.com/comp/karaikudi/a6/9999p4575.4575.171205185231.i8a6/catalogue/aarya-bhavan-karaikudi-karaikudi-gjwthqggub-250.jpg"
-        },
-        {
-            "id": 4,
-            "name": "POORI",
-            "price": 40,
-            "img": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg"
-        },
-        {
-            "id": 5,
-            "name": "NOODLES",
-            "price": 120,
-            "img": "https://thumbs.dreamstime.com/b/bowl-chinese-noodles-vegetables-white-background-30440348.jpg"
-        },
-        {
-            "id": 6,
-            "name": "FRIED RICE",
-            "price": 130,
-            "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg"
-        },
-        {
-            "id": 7,
-            "name": "BRIYANI",
-            "price": 180,
-            "img": "https://tandoorikitchen.in/wp-content/uploads/2022/03/Veg-Biryani-2-3-2.jpg"
-        },
-        {
-            "id": 8,
-            "name": "CHICKEN BRIYANI",
-            "price": 210,
-            "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/01/Chicken-Biryani.jpg"
-        }
-    ]
+      "id": 1,
+      "name": "CHAPPATHI",
+      "price": 40,
+      "img": "https://i0.wp.com/spiceandcolour.com/wp-content/uploads/2020/05/chapati-espelta-1.jpg",
+      "description":"A plain roti is an excellent source of soluble fibre, which helps lower blood cholesterol levels, prevents constipation and helps keep our digestive system healthy. Loaded with complex carbohydrates that give you sustained energy and it can keep you satiated for hours."
+    },
+     {
+      "id": 2,
+      "name": "MEALS",
+      "price": 80,
+      "img": "https://thumbs.dreamstime.com/b/south-indian-meals-served-banana-leaf-traditional-cuisine-57371591.jpg",
+      "description":"Our bodies are programmed to sense a lack of food as starvation. When we skip meals, our calorie burn rate slows down, which means fewer calories burned over time. When you don't eat regular meals, your burn rate will often slow down making it harder to lose weight. Learn more about how many calories you actually need"
+    },
+     {
+      "id": 3,
+      "name": "PONGAL",
+      "price": 50,
+      "img": "https://content.jdmagicbox.com/comp/karaikudi/a6/9999p4575.4575.171205185231.i8a6/catalogue/aarya-bhavan-karaikudi-karaikudi-gjwthqggub-250.jpg",
+      "description":"Pongal. Pongal is a combination of rice and moong dal which ensures protein-carb balance. Light and easily digestible, pongal is also low in fat and calories. Homemade pongal, with limited ghee, can prove to be an especially healthy breakfast choice."
+    },
+     {
+      "id": 4,
+      "name": "POORI",
+      "price": 40,
+      "img": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg",
+      "description":"Poori is generally prepared with whole wheat flour , which is rich in phosphorus, which helps to build our bones. It may help to build bones. It may help to gain weight. It may increase red blood cells."
+    },
+    {
+      "id": 5,
+      "name": "NOODLES",
+      "price": 40,
+      "img": "https://thumbs.dreamstime.com/b/bowl-chinese-noodles-vegetables-white-background-30440348.jpg",
+      "description":"A vast majority of instant noodles are low in calories, but are also low in fibre and protein. They are also notorious for being high in fat, carbohydrates, and sodium. While you will be able to get some micronutrients from instant noodles, they lack important nutrients like vitamin A, vitamin C, vitamin B12, and more."
+    },
+     {
+      "id": 6,
+      "name": "FRIED RICE",
+      "price": 80,
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg",
+      "description":"Health Benefits of fried rice are: Contains Powerful Antioxidant: Many types of vegetables like carrots and capsicum are also used in it, having the right amount of antioxidants and helping the body fight against many harmful bacteria. Fried rice contains antioxidants that can boost immunity."
+    },
+     {
+      "id": 7,
+      "name": "BRIYANI",
+      "price": 50,
+      "img": "https://tandoorikitchen.in/wp-content/uploads/2022/03/Veg-Biryani-2-3-2.jpg",
+      "description":"Vegetable biryani contains low amount of saturated fat, cholesterol and sodium. So it is a healthy diet. It is a good source of dietary fibre and manganese too. It is prepared using various kinds of fresh vegetables like carrot; French beans, cauliflower, green peas, corn, mushrooms and potatoes."
+    },
+     {
+      "id": 8,
+      "name": "CHICKEN BRIYANI",
+      "price": 40,
+      "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/01/Chicken-Biryani.jpg",
+      "description":"Chicken Biryani is rich in Vitamin-B6 which controls body's metabolic function. Chicken contains Selenium which guards immune system and also regulates thyroid hormone. Selenium also works as an anti-aging device as well as helps the immune system by reducing free radical damages"
+    }
+      ]
 }
